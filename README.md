@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h2 align="center">Hey 👋, I'm Bradley Schofield.</h2>
 <p align="center">Fullstack Engineer Specialising in JavaScript, Python, C++ and openness to learning new concepts and languages.</p>
 
-<p>Fun fact, If I need a placeholder user for to outline designs I normally use either Salieri or Amadeus as a reference to Steins;Gate 0 (and Mozart aswell as Antonio themselves.)
-
 <h2 align="center">Links</h2>
 
 - [Website](https://ionicisere.co.uk)
@@ -27,3 +25,5 @@ Here are some ideas to get you started:
 - [Steam](https://steamcommunity.com/id/ionicisere)
 
 - Discord: IOnic#2509
+
+<p>Fun fact: If I need a placeholder user for to outline designs I normally use either Salieri or Amadeus as a reference to Steins;Gate 0 (and Mozart aswell as Antonio themselves.)
