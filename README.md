@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 - Discord: IOnic#2509
 
-<p>Fun fact: If I need a placeholder user for to outline designs I normally use either Salieri or Amadeus as a reference to Steins;Gate 0 (and Mozart aswell as Antonio themselves.)
+<p>Fun fact: If I need a placeholder user to outline designs I normally use either Salieri or Amadeus as a reference to Steins;Gate 0 (and Mozart aswell as Antonio themselves.)
