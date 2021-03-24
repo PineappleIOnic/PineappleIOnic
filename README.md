@@ -1,5 +1,5 @@
 <h2 align="center">Hey 👋, I'm Bradley Schofield.</h2>
-<p align="center">Fullstack Engineer Specialising in JavaScript, Python, C++ and openness to learning new concepts and languages.</p>
+<p align="center">Fullstack Engineer Specialising in JavaScript, Python, Rust and openness to learning new concepts and languages.</p>
 
 <h2 align="center">Links</h2>
 
