@@ -5,8 +5,6 @@
 
 - [Website](https://ionicisere.co.uk)
 
-- [Blog](https://blog.ionicisere.co.uk)
-
 - [Steam](https://steamcommunity.com/id/ionicisere)
 
 - Discord: IOnic#2509
