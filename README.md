@@ -10,3 +10,5 @@
 - Discord: IOnic#2509
 
 <p>Fun fact: If I need a placeholder user to outline designs I normally use either Salieri or Amadeus as a reference to Steins;Gate 0 (and Mozart aswell as Antonio themselves.)</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PineappleIOnic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
