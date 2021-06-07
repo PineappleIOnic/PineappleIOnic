@@ -7,7 +7,3 @@
 <a href="https://steamcommunity.com/id/ionicisere"><img height="32" width="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/steam.svg" /></a>
 
 <p>Fun fact: If I need a placeholder user to outline designs I normally use either Salieri or Amadeus as a reference to Steins;Gate 0 (and Mozart aswell as Antonio themselves.)</p>
-
-<p align="center">
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=iuzfozn485y7cwunqpmw6fdeq&cover_image=true&theme=default"></img>
-</p>
